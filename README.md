@@ -4,6 +4,10 @@ Genera imágenes de bienvenida personalizadas para bots, servidores o comunidade
 
 <br><br>
 
+[![Discord](https://img.shields.io/badge/Discord-Unete%20al%20Servidor-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/tGxgqxj7fM)
+
+<br><br>
+
 📦 Instalación
 
 ```bash
