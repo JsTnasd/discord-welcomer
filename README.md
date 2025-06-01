@@ -34,7 +34,7 @@ npm install generate-welcome-image
 const { AttachmentBuilder } = require('discord.js');
 const generateWelcomeImage = require('generate-welcome-image');
 
-const WELCOME_CHANNEL_ID = '1054041270894465127';
+const WELCOME_CHANNEL_ID = '1234567890101112';
 
 client.on('guildMemberAdd', async member => {
   const welcomeBuffer = await generateWelcomeImage({
