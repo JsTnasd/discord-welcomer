@@ -1,17 +1,18 @@
 
-<h1>🎉 generate-welcome-image</h1>
+<h1>🎉 Discord-welcome-image</h1>
 Genera imágenes de bienvenida personalizadas para bots, servidores o comunidades. Este módulo permite crear imágenes con avatares, textos personalizados, bordes y efectos visuales como desenfoque y gradientes.
 
 <br><br>
 
-[![Discord](https://img.shields.io/badge/Discord-Unete%20al%20Servidor-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/tGxgqxj7fM)
+[![Discord](https://img.shields.io/badge/Discord-Unete%20al%20Servidor-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/tGxgqxj7fM) <a href="https://www.npmjs.com/package/discord-welcome-image"><img src="https://img.shields.io/npm/v/discord-welcome-image.svg?style=flat&label=npm" /></a>
+<a href="https://www.npmjs.com/package/discord-welcome-image"><img src="https://img.shields.io/npm/dt/discord-welcome-image?style=flat&label=Downloads" /></a>
 
 <br><br>
 
 📦 Instalación
 
 ```bash
-npm install generate-welcome-image
+npm i discord-welcome-image
 ```
 
 <br><br>
