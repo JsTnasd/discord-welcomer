@@ -37,7 +37,7 @@ npm i discord-welcome-image
 🛠 Uso básico
 ```js
 const { AttachmentBuilder } = require('discord.js');
-const generateWelcomeImage = require('generate-welcome-image');
+const generateWelcomeImage = require('discord-welcome-image');
 
 const WELCOME_CHANNEL_ID = '1234567890101112';
 
