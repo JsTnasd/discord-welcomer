@@ -1,0 +1,16 @@
+{
+  "name": "discord-welcomer",
+  "version": "1.0.0",
+  "description": "Genera imagenes de bienvenidas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "stackblur-canvas": "^2.7.0"
+  }
+}
